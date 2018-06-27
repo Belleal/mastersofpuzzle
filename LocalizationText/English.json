@@ -216,6 +216,18 @@
 		"label": "LBL_00072",
 		"text": "Select Game to Load"
 	},{
+		"label": "LBL_00073",
+		"text": "Mute Audio"
+	},{
+		"label": "LBL_00074",
+		"text": "Music Volume"
+	},{
+		"label": "LBL_00075",
+		"text": "SFX Volume"
+	},{
+		"label": "LBL_00076",
+		"text": "Options: Audio"
+	},{
 		"label": "LBL_01000",
 		"text": "There is a required game content that is not available with your local installation. The size of the package is <b>${0} Mb</b> and the game can download and install it automatically. Please be aware, that this action might result in additional charges with your Internet provider.\n\r\n\rDo you wish to continue?"
 	},{
