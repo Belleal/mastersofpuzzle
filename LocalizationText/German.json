@@ -1,363 +1,375 @@
 {
 	"items": [{
 		"label": "LBL_00001",
-		"text": "New Game"
+		"text": "Neues Spiel"
 	},{
 		"label": "LBL_00002",
-		"text": "Quit Game"
+		"text": "Beenden"
 	},{
 		"label": "LBL_00003",
-		"text": "Start Game"
+		"text": "Spiel starten"
 	},{
 		"label": "LBL_00004",
-		"text": "Back"
+		"text": "Zurück"
 	},{
 		"label": "LBL_00005",
-		"text": "250 Tiles"
+		"text": "250 Teile"
 	},{
 		"label": "LBL_00006",
-		"text": "500 Tiles"
+		"text": "500 Teile"
 	},{
 		"label": "LBL_00007",
-		"text": "1500 Tiles"
+		"text": "1500 Teile"
 	},{
 		"label": "LBL_00008",
-		"text": "Save & Exit"
+		"text": "Speichern & Beenden"
 	},{
 		"label": "LBL_00009",
-		"text": "Continue Game"
+		"text": "Spiel fortsetzen"
 	},{
 		"label": "LBL_00010",
-		"text": "Load Game"
+		"text": "Spiel laden"
 	},{
 		"label": "LBL_00011",
-		"text": "Multiplayer"
+		"text": "Mehrspieler"
 	},{
 		"label": "LBL_00012",
-		"text": "Create Game"
+		"text": "Spiel erstellen" 
 	},{
 		"label": "LBL_00013",
-		"text": "Join Game"
+		"text": "Beitreten"
 	},{
 		"label": "LBL_00014",
 		"text": "Login"
 	},{
 		"label": "LBL_00015",
-		"text": "Register Account"
+		"text": "Konto registrieren"
 	},{
 		"label": "LBL_00016",
-		"text": "Password"
+		"text": "Passwort"
 	},{
 		"label": "LBL_00017",
 		"text": "Email"
 	},{
 		"label": "LBL_00018",
-		"text": "Display Name"
+		"text": "Anzeigename"
 	},{
 		"label": "LBL_00019",
-		"text": "Confirm Password"
+		"text": "Passwort bestätigen"
 	},{
 		"label": "LBL_00020",
-		"text": "Register"
+		"text": "Registrieren"
 	},{
 		"label": "LBL_00021",
-		"text": "Remember Me"
+		"text": "Benutzer merken"
 	},{
 		"label": "LBL_00022",
-		"text": "Confirm"
+		"text": "Bestätigen"
 	},{
 		"label": "LBL_00023",
-		"text": "Cancel"
+		"text": "Abbrechen"
 	},{
 		"label": "LBL_00024",
-		"text": "Approval Needed"
+		"text": "Bestätigung notwendig"
 	},{
 		"label": "LBL_00025",
-		"text": "Error Encountered"
+		"text": "Fehler aufgetreten"
 	},{
 		"label": "LBL_00026",
-		"text": "Close"
+		"text": "Schließen"
 	},{
 		"label": "LBL_00027",
-		"text": "Options"
+		"text": "Optionen"
 	},{
 		"label": "LBL_00028",
-		"text": "Accept Registration EULA"
+		"text": "Registrierungs-EULA akzeptieren"
 	},{
 		"label": "LBL_00029",
-		"text": "Or"
+		"text": "Oder"
 	},{
 		"label": "LBL_00030",
-		"text": "By"
+		"text": "Von"
 	},{
 		"label": "LBL_00031",
-		"text": "${0} of ${1} Puzzle Boxes owned"
+		"text": "${0} von ${1} Puzzle Boxen in Besitz"
 	},{
 		"label": "LBL_00032",
-		"text": "Select Category"
+		"text": "Kategorie auswählen"
 	},{
 		"label": "LBL_00033",
-		"text": "Category: ${0}"
+		"text": "Kategorie: ${0}"
 	},{
 		"label": "LBL_00034",
-		"text": "${0} More to See"
+		"text": "${0} mehr zu entdecken"
 	},{
 		"label": "LBL_00035",
-		"text": "Container Label"
+		"text": "Behältername"
 	},{
 		"label": "LBL_00036",
-		"text": "Workbench"
+		"text": "Arbeitstisch"
 	},{
 		"label": "LBL_00037",
-		"text": "Puzzle Box Title"
+		"text": "Puzzle Box Titel"
 	},{
 		"label": "LBL_00038",
-		"text": "${0} Tiles"
+		"text": "${0} Teile"
 	},{
 		"label": "LBL_00039",
-		"text": "Authenticate"
+		"text": "Authentifiziere"
 	},{
 		"label": "LBL_00040",
-		"text": "Authentication via Steam"
+		"text": "Authentifizierung über Steam"
 	},{
 		"label": "LBL_00041",
-		"text": "Authenticate Automatically"
+		"text": "Automatisch authentifizieren"
 	},{
 		"label": "LBL_00042",
-		"text": "Authentication @ Belleal Games"
+		"text": "Authentifizierung @ Belleal Games"
 	},{
 		"label": "LBL_00043",
-		"text": "Registration @ Belleal Games"
+		"text": "Registrierung @ Belleal Games"
 	},{
 		"label": "LBL_00044",
-		"text": "Welcome, <b>${0}</b>. We wish you a pleasant game."
+		"text": "Hallo, <b>${0}</b>. Wir wünschen Ihnen ein angenehmes Spiel."
 	},{
 		"label": "LBL_00045",
-		"text": "Game Guide"
+		"text": "Leitfaden"
 	},{
 		"label": "LBL_00046",
-		"text": "Report Bug"
+		"text": "Fehler melden"
 	},{
 		"label": "LBL_00047",
-		"text": "Submit Bug Report"
+		"text": "Fehlermeldung übermitteln"
 	},{
 		"label": "LBL_00048",
-		"text": "Summary"
+		"text": "Zusammenfassung"
 	},{
 		"label": "LBL_00049",
-		"text": "Description"
+		"text": "Beschreibung"
 	},{
 		"label": "LBL_00050",
-		"text": "Submit"
+		"text": "Abschicken"
 	},{
 		"label": "LBL_00051",
-		"text": "Operation in Progress"
+		"text": "Vorgang in Bearbeitung"
 	},{
 		"label": "LBL_00052",
-		"text": "Loading. Please wait..."
+		"text": "Spiel lädt. Bitte warten..."
 	},{
 		"label": "LBL_00053",
-		"text": "Loading completed"
+		"text": "Spiel geladen"
 	},{
 		"label": "LBL_00054",
-		"text": "Important Information"
+		"text": "Wichtige Information"
 	},{
 		"label": "LBL_00055",
-		"text": "Puzzle Completed"
+		"text": "Puzzle abgeschlossen"
 	},{
 		"label": "LBL_00056",
-		"text": "Congratulations!"
+		"text": "Herzlichen Glückwunsch!"
 	},{
 		"label": "LBL_00057",
-		"text": "Exit"
+		"text": "Beenden"
 	},{
 		"label": "LBL_00058",
-		"text": "Options"
+		"text": "Optionen"
 	},{
 		"label": "LBL_00059",
-		"text": "Options: Player Controls"
+		"text": "Optionen: Spielersteuerung"
 	},{
 		"label": "LBL_00060",
-		"text": "Camera Sensitivity"
+		"text": "Kamerasensibilität"
 	},{
 		"label": "LBL_00061",
-		"text": "Ascend / Descend Speed"
+		"text": "Steig- / Sinkgeschwindigkeit"
 	},{
 		"label": "LBL_00062",
-		"text": "Move Speed"
+		"text": "Bewegungsgeschwindigkeit"
 	},{
 		"label": "LBL_00063",
-		"text": "Invert Camera"
+		"text": "Kamera invertieren"
 	},{
 		"label": "LBL_00064",
-		"text": "Zoom Speed"
+		"text": "Zoomgeschwindigkeit"
 	},{
 		"label": "LBL_00065",
-		"text": "Unauthenticated"
+		"text": "Nicht authentifiziert"
 	},{
 		"label": "LBL_00066",
-		"text": "Authenticated"
+		"text": "Authentifiziert"
 	},{
 		"label": "LBL_00067",
-		"text": "Puzzle Tile Proximity Threshold"
+		"text": "Annäherungsgrenze für Puzzleteile"
 	},{
 		"label": "LBL_00068",
-		"text": "Options: General"
+		"text": "Optionen: Allgemein"
 	},{
 		"label": "LBL_00069",
-		"text": "Puzzle Tile Axis Offset"
+		"text": "Achsenoffset der Puzzleteile"
 	},{
 		"label": "LBL_00070",
-		"text": "Puzzle Tile Grab Radius"
+		"text": "Radius um Puzzleteile zu greifen"
 	},{
 		"label": "LBL_00071",
-		"text": "Defaults"
+		"text": "Standardwerte"
 	},{
 		"label": "LBL_00072",
-		"text": "Select Game to Load"
+		"text": "Spiel auswählen"
+	},{
+		"label": "LBL_00073",
+		"text": "Ton stummschalten"
+	},{
+		"label": "LBL_00074",
+		"text": "Lautstärke Musik"
+	},{
+		"label": "LBL_00075",
+		"text": "Lautstärke Effekte"
+	},{
+		"label": "LBL_00076",
+		"text": "Optionen: Ton"
 	},{
 		"label": "LBL_01000",
-		"text": "There is a required game content that is not available with your local installation. The size of the package is <b>${0} Mb</b> and the game can download and install it automatically. Please be aware, that this action might result in additional charges with your Internet provider.\n\r\n\rDo you wish to continue?"
+		"text": "Ein notwendiger Spielinhalt ist nicht installiert. Die Größe des Pakets beträgt <b>${0} MB</b> und das Spiel kann dieses automatisch downloaden und installieren. Bitte beachten Sie, dass dies zu eventuellen Mehrkosten deines Internetanbieters führen kann.\n\r\n\rMöchten Sie fortfahren?"
 	},{
 		"label": "LBL_01001",
-		"text": "There is a required game content in your local installation that is of an older version and needs to be updated. The size of the package is <b>${0} Mb</b> and the game can download and install it automatically. Please be aware, that this action might result in additional charges with your Internet provider.\n\r\n\rDo you wish to continue?"
+		"text": "Ein notwendiger Spielinhalt ist nicht aktuell und benötigt ein Update. Die Größe des Pakets beträgt <b>${0} MB</b> und das Spiel kann dieses automatisch downloaden und installieren. Bitte beachten Sie, dass dies zu eventuellen Mehrkosten deines Internetanbieters führen kann.\n\r\n\rMöchten Sie fortfahren?"
 	},{
 		"label": "LBL_01002",
-		"text": "To move around the playground use keyboard keys <b>W</b> (Forward), <b>A</b> (Backward), <b>S</b> (Left), <b>D</b> (Right). This will let you slide at constant speed in the direction you want."
+		"text": "Um sich zu bewegen nutzten Sie Tasten <b>W</b> (Vorwärts), <b>A</b> (Rückwärts), <b>S</b> (Links), <b>D</b> (Rechts) . Dies lässt Sie in einer konstanten Bewegung in Ihre Wunschrichtung gleiten."
 	},{
 		"label": "LBL_01003",
-		"text": "Dear player, you've launched <b>Masters of Puzzle</b> via <b>Steam</b>. In order for you to enjoy our online services, you will need to authenticate with your current Steam session into our game servers by clicking the button below. You can also enable automatic authentication to skip this step in the future."
+		"text": "Lieber Spieler, Sie haben <b>Masters of Puzzle</b> über <b>Steam</b> gestartet. Damit Sie unsere Onlineservices genießen können, müssen Sie sich durch einen Klick auf den untenstehenden Button mit deiner aktuellen Steamsession auf unseren Spieleservern authentifizieren. Sie können auch die automatische Authentifizierung wählen, um diesen Schritt in Zukunft zu überspringen."
 	},{
 		"label": "LBL_01004",
-		"text": "Dear player, welcome to <b>Masters of Puzzle</b>. In order for you to enjoy our online services, you will need to login into your <b>Belleal Games</b> account. If you don't have an account yet, please use the in-game registration form accessible via the button below."
+		"text": "Lieber Spieler, Willkommen zu <b>Masters of Puzzle</b>. Damit Sie unsere Onlineservices genießen können, müssen Sie sich in Ihren <b>Belleal Games</b>Account einloggen. Falls Sie noch keinen Account haben, nutzen Sie bitte das in-game Registrierungsformular, erreichbar über den untenstehenden Button."
 	},{
 		"label": "LBL_01005",
-		"text": "<b>Moving Around the Game Board</b>\n\r\n\rAs a player, you can move around parallel to the game board to reach all of its areas or to view certain items. To do that use the <b>W</b>, <b>A</b>, <b>S</b>, and <b>D</b> keys or their corresponding <b>Arrow</b> keys. Alternatively, you can move with the mouse by holding the <b>Middle Mouse Button</b> and <i>dragging</i> it in the desired direction. You can also speed up by holding the <b>Shift</b> key or slow down by holding the <b>Ctrl</b> key while moving.\n\r\n\rThe movements will be restricted to the game board area, so keep that in mind when moving close to the edges."
+		"text": "<b>Um die Spieloberfläche bewegen</b>\n\r\n\rSie können sich um die Spieloberfläche bewegen um in alle Bereiche zu gelangen oder um bestimmte Dinge zu sehen. Benutzen Sie dafür die <b>W</b>, <b>A</b>, <b>S</b>, und <b>D</b> Tasten oder die entsprechenden <b>Pfeiltasten</b>.Alternativ können Sie sich bewegen, indem Sie die <b>Mittlere Maustaste</b> halten und in die gewünschte Richtung <i>ziehen</i>. Die Bewegung kann mit der <b>Shift</b>-Taste beschleunigt oder mit der <b>Strg</b>-Taste abgebremst werden.\n\r\n\rBeachten Sie, dass es nur möglich ist sich um die Spieloberfläche zu bewegen."
 	},{
 		"label": "LBL_01006",
-		"text": "<b>Moving Vertically</b>\n\r\n\rAppart from the horizontal movement, you can also climb up and down in relation to the game board. To do that use the <b>Q</b> and <b>E</b> keys. There is no direct alternative to this by using the mouse only, but you can achieve a similar effect by using a combination of looking around and moving along the view-axis controls (see below)."
+		"text": "<b>Vertikale Bewegung</b>\n\r\n\rNeben der horizontalen Bewegung, können Sie sich relativ zum Spielbrett nach oben und unten bewegen. Nutzen Sie dafür die <b>Q</b> und <b>E</b> Tasten. Für diesen Befehl gibt es keine direkte alternative mit der Maussteuerung. Eine ähnliche Bewegung erreichen Sie, wenn Sie sich während des Umschauens auf der Sichtachse bewegen (siehe unten)."
 	},{
 		"label": "LBL_01007",
-		"text": "<b>Moving Along the View-axis</b>\n\r\n\rBy using the <b>Mouse Wheel</b>, you can move forward or backward in the direction you’re currently looking at. This control has no keyboard shortcuts and is intended to be used in combination with other movement controls."
+		"text": "<b>Auf der Sichtachse bewegen</b>\n\r\n\rMit dem <b>Mausrad</b> können Sie sich in Ihrer Sichtachse vorwärts und rückwärts bewegen. Dieser Befehl hat keine Tastaturbelegung und sollte mit einem Bewegungsbefehl kombiniert werden."
 	},{
 		"label": "LBL_01008",
-		"text": "<b>Looking Around the Room</b>\n\r\n\rYou are not limited to only move around. You can also look around the game environment with the mouse by holding the <b>Right Mouse Button</b> and <i>dragging</i> it in the desired direction. This control has no keyboard shortcuts and is intended to be used in combination with other movement controls.\n\r\n\rThe looking-angle is currently restricted in the arc between 0 and 90 degrees, where 0 faces straight down towards the game board."
+		"text": "<b>Umschauen</b>\n\r\n\rSie können nicht nur herumlaufen, sondern sich auch durch Drücken und Halten der <b>Rechten Maustaste</b> umschauen. Dieser Befehl hat keine Tastaturbelegung und sollte mit einem Bewegungsbefehl kombiniert werden.\n\r\n\rDer Blickwinkel ist zurzeit auf einen Bogen zwischen 0 und 90 Grad beschränkt, wobei 0 direkt nach unten auf die Spieloberfläche zeigt."
 	},{
 		"label": "LBL_01009",
-		"text": "<b>Manipulating Puzzle Tiles</b>\n\r\n\rThe puzzle tile manipulation is a rather complex topic as it is at the hearth of the game. Therefore, we have several different controls related to that."
+		"text": "<b>Puzzleteile manipulieren</b>\n\r\n\rManipulation der Puzzleteile ist nicht einfaches Thema, aber das Herzstücke des Spiels. Daher haben wir diverse verschiedene Kontrollmöglichkeiten für diese Thematik."
 	},{
 		"label": "LBL_01010",
-		"text": "<b>Taking and Moving Puzzle Tiles</b>\n\r\n\rTo <i>pick up a tile</i> up you need to click the <b>Left Mouse Button</b> while the mouse cursor is positioned over it. No need to hold the button once the tile is picked – it will follow your mouse movements around the game board until you drop it. In that regard, to <i>put down a tile</i>, click the <b>Left Mouse Button</b> again. The tile will be dropped at the location your mouse cursor is currently pointing at."
+		"text": "<b>Puzzleteile aufnehmen und bewegen</b>\n\r\n\rUm ein <i>Puzzleteil aufzunehmen</i>, klicken Sie mit der <b>Linken Maustaste</b> auf das entsprechende Puzzleteil. Wenn das Puzzleteil einmal aufgenommen wurde, ist es nicht notwendig die Maustaste gedrückt zu halten - es folgt den Mausbewegungen bis Sie es wieder auf die Spieloberfläche ablegen. Um ein <i>Puzzleteil abzulegen</i>, drücken Sie ein weiteres Mal die <b>Linke Maustaste</b>. Das Puzzleteil wird an der aktuellen Position des Mauszeigers abgelegt.\n\r\n\rSie können mehrere Puzzleteile gleichzeitig aufnehmen, indem Sie die während des Klicks mit der <b>Linken Maustaste</b> die <b>Shift</b>-Taste gedrückt halten. Es werden dann alle Puzzleteile in einem bestimmten Radius um das mittige Teil zusammen ausgewählt, quasi wie mit der bloßen Hand aufgenommen. Sie können diese Puzzleteile dann zusammen bewegen und nach belieben ablegen. Alle Teile behalten Ihre Position und Rotation bei.\n\r\n\rFalls Sie aus irgendwelchen Gründen ein Puzzleteil von der Matte oder der Gruppe entfernen wollen, können Sie das durch einen Klick mit der <b>Linken Maustaste</b> während Sie die <b>Strg</b>-Taste gedrückt halten. Das Teil wird von seiner Position entfernt und aufgehoben. Ist dieses Puzzleteil Teil einer Gruppe gewesen, wird diese aufgelöst und das Spiel versucht die verbleibenden, sich noch berührenden Teile, zu verbinden."
 	},{
 		"label": "LBL_01011",
-		"text": "<b>Opening the Puzzle Tile Context Menu</b>\n\r\n\rTo open the context menu while holding a tile, you need to <i>hold</i> the <b>Left Mouse Button</b> for a second or more. Once the menu opens next to the puzzle tile, you need to continue to hold the Left Mouse Button and <i>move</i> the mouse cursor over the desired menu action before <i>releasing it</i> in order to activate that action."
+		"text": "<b>Öffnen des Puzzleteil-Kontextmenüs</b>\n\r\n\rUm das Kontextmenü zu öffnen, klicken und <i>halten</i> Sie die <b>Linke Maustaste</b> bei der Auswahl des Puzzleteils. Wenn das Kontextmenü geöffnet ist, müssen Sie weiterhin die Maustaste gedrückt halten und den Mauszeiger über die gewünschte Option <i>bewegen</i> und anschließend die Maustaste <i>loslassen</i> um den Befehl auszuführen."
 	},{
 		"label": "LBL_01012",
-		"text": "<b>Rotating Puzzle Tiles</b>\n\r\n\rTo rotate a puzzle tile clockwise and counterclockwise while holding it, use the <b>Z</b> (counterclockwise) and <b>X</b> (clockwise) keys. Alternatively, you can also do that only with the mouse by using the tile context menu.\n\r\n\rKeep in mind, that the tile will maintain its horizontal orientation to be parallel to the game board once picked up (i.e. face up). However, it will not provide any hints towards its correct orientation in the puzzle image to maintain the challenge – this part you’ll have to figure out by yourself."
+		"text": "<b>Puzzleteile drehen</b>\n\r\n\rUm Puzzleteile im und gegen den Uhrzeigersinn zu drehen, drücken Sie die <b>Z</b> (gegen den Uhrzeigersinn) und <b>X</b> (im Uhrzeigersinn) Tasten, <i>während Sie es halten</i>. Alternativ können Sie auch das Puzzleteil-Kontextmenü nutzen.\n\r\n\rBeachten Sie, dass die Teile ihre parallele Ausrichtung zum Spielbrett beibehalten (z.B. mit der Bildseite nach oben), wenn sie aufgenommen werden. Dennoch gibt des keinen Hinweise auf die letztendliche Drehung des Puzzleteil innerhalb des Bildes – dies ist der Teil, den Sie selbst herausfinden müssen."
 	},{
 		"label": "LBL_01013",
-		"text": "<b>Inspecting Puzzle Tiles</b>\n\r\n\rTo inspect a puzzle tile <i>while holding it</i>, use the <b>F</b> key. This will move the tile close to the screen viewport and turn the image towards you. The tile will keep its current orientation and rotation. To return the tile back to its original location above the game board press the <b>F</b> key again. Alternatively, you can also do that only with the mouse by using the tile context menu. You can also rotate the tile while it’s being inspected. Also, if you press the <b>Left Mouse Button</b> while you inspect a tile, it will be released and returned to its last location on the game board."
+		"text": "<b>Puzzleteile betrachten</b>\n\r\n\rUm ein Puzzleteil zu betrachten, drücken Sie die <b>F</b> Taste <i>während Sie es in der Hand halten</i>. Dies holt das Puzzleteil näher heran und dreht die Bildseite in Ihre Richtung. Das Teil behält seine aktuelle Position und Drehung. Um das Puzzleteil auf seine angestammte Position zurückzulegen, drücken Sie ein weiteres Mal die <b>F</b>Taste. Alternativ können Sie auch das Puzzleteil-Kontextmenü benutzen. Während des genauen Betrachten können Sie das Teil auch drehen. Ebenfalls, können Sie das Teil durch einen Klick auf die <b>Linke Maustaste</b> zurück auf das Spielfeld legen."
 	},{
 		"label": "LBL_01014",
-		"text": "<b>Manipulating the Puzzle Model</b>\n\r\n\rAt any time during gameplay, you can call the puzzle model for a close inspection. To do that use the <b>G</b> key. The puzzle model box will be scaled to fit your current screen viewport. It will also be oriented with the puzzle image towards you. To return the puzzle model back to its original place press the <b>G</b> key again. Currently, there is no alternative to do that with the mouse only, but we will be adding something in a later release."
+		"text": "<b>Das Puzzle-Modell manipulieren</b>\n\r\n\rSie können jederzeit das Puzzle-Modell für ein genaueres Betrachten heranziehen indem Sie die <b>G</b> Taste drücken. Das Puzzle-Modell wird der aktuellen Fenstergröße angepasst. Ebenfalls wird das Puzzlebild zu Ihnen hingewandt sein. Um das Puzzle-Modell zurückzulegen, drücken Sie ein weiteres Mal die <b>G</b> Taste. Derzeit gibt es keine alternative Steuerung mit der Maus. Wir werden dies aber in einem späteren Release nachreichen."
 	},{
 		"label": "LBL_01015",
-		"text": "<b>Moving the Inspection Lens</b>\n\r\n\rIf your puzzle model has an inspection lens attached, you can move it around over the puzzle image by clicking and <i>holding</i> the <b>Left Mouse Button</b> while the mouse cursor is over the lens head. Then you need to <i>drag</i> the mouse in the desired direction. To leave the lens at its current location just release the <b>Left Mouse Button</b>. Please keep in mind that the inspection lens can <i>only</i> be moved while you have the puzzle model called up for close inspection (see above)."
+		"text": "<b>Das Vergrößerungsglas bewegen</b>\n\r\n\rWenn Ihr Puzzle-Modell ein Vergrößerungsglas besitzt, können Sie dieses durch Klicken und <i>Halten</i> der <b>Linken Maustaste</b> bewegen, sofern der Mauszeiger über der Linse ist. Dann müssen Sie die Maus in Ihre gewünschte Richtung <i>ziehen</i>. Um das Vergrößerungsglas zurückzusetzen, lassen Sie einfach die <b>Linke Maustaste</b> los. Sie können das Vergrößerungsglas nutzen, unabhängig davon, ob das Puzzle-Modell zur genaueren Betrachtung herangezogen wurde (siehe oben)."
 	},{
 		"label": "LBL_01016",
-		"text": "Slicing image model into puzzle tiles"
+		"text": "Schneide Bild in Puzzleteile"
 	},{
 		"label": "LBL_01017",
-		"text": "Packing puzzle tiles into the box"
+		"text": "Packe Puzzleteile in die Box"
 	},{
 		"label": "LBL_01018",
-		"text": "Cleaning up the playing surface"
+		"text": "Räume Spieloberfläche auf"
 	},{
 		"label": "LBL_01019",
-		"text": "Rolling out the puzzle mat"
+		"text": "Rolle Puzzlematte aus"
 	},{
 		"label": "LBL_01020",
-		"text": "Setting up the puzzle model"
+		"text": "Richte das Puzzle ein"
 	},{
 		"label": "LBL_01021",
-		"text": "We are sorry you encountered a problem with our game! We will be grateful if you describe the issue as accurate as possible in order for us to be able to track and eliminate it. However, please read the following notice carefully before proceeding.\n\r\n\r<b>Important Note</b>: In order to make this service as useful as possible, we will have to take a snapshot of your system at the time of the bug report. That snapshot contains only <b>anonymous</b> data about your hardware configuration and the current state of the game. By sending this report, you agree to provide us with this information for the purposes of resolving the issue you encountered. The data will be automatically deleted as soon as the issue is resolved. Since the bug report is anonymous, there is no way for us to contact you back based on this report. If you have a question or require direct assistance, please use one of our other channels to get in touch instead.\n\r\n\rWe thank you for your support!"
+		"text": "Es tut uns leid, dass ein Problem mit unserem Spiel aufgetreten ist! Wir wären Ihnen dankbar, wenn Sie das Problem so genau wie möglich beschreiben könnten, damit wir den Fehler finden und beseitigen können. Bitte lesen Sie dazu den folgen Hinweis gründlich durch.\n\r\n\r<b>Wichtiger Hinweis</b>: Damit die Nutzbarkeit dieses Services so groß wie möglich wird, werden wir einen Snapshot Ihres Systems an den Fehlerbericht anhängen. Der Snapshot enthält ausschließlich <b>anonyme</b> Daten über Ihre Hardwarekonfiguration und den aktuellen Zustand des Spiels. Durch das Absenden des Berichts, stimmen Sie zu, uns diese Daten zur Fehlerbeseitigung zur Verfügung zu stellen. Die Daten werden automatisch gelöscht, wenn der Fehler behoben wurde. Da der Fehlerbericht anonym ist, haben wir keine Möglichkeit Sie in Bezug auf den Bericht zu kontaktieren. Wenn Sie eine Fragen haben oder sonstige Unterstützung benötigen, nutzen Sie bitte für die Kontaktaufnahme einen unserer Kanäle.\n\r\n\rWir danken Ihnen für Ihre Unterstützung!"
 	},{
 		"label": "LBL_01022",
-		"text": "<i>Your report is being submitted. Please wait...</i>"
+		"text": "<i>Die Fehlermeldung wird übermittelt. Bitte warten...</i>"
 	},{
 		"label": "LBL_01023",
-		"text": "The required game content is being downloaded and unpacked. Please wait..."
+		"text": "Der benötige Spielinhalt wird heruntergeladen und entpackt. Bitte warten..."
 	},{
 		"label": "LBL_01024",
-		"text": "Are you sure you want to delete the saved game for this puzzle box and tile set combination? This operation cannot be reversed."
+		"text": "Sind Sie sicher, dass sie den Speicherstand dieser Puzzlebox und Größe löschen wollen? Dieser Vorgang kann nicht rückgängig gemacht werden."
 	},{
 		"label": "LBL_01025",
-		"text": "The required game content is being unpacked. Please wait..."
+		"text": "Der benötigte Spielinhalt wird entpackt. Bitte warten..."
 	},{
 		"label": "LBL_01026",
-		"text": "Please be aware that playing the game with a content that is not up to date may result in various unpredictable issues. We cannot guarantee the quality of your game experience unless you update that content."
+		"text": "Bitte beachten Sie, dass das Spielen von nicht aktuellen Spielinhalten zu unvorhersehbaren Fehlern führen kann. Wir können Ihnen keine positive Spielerfahrung garantieren, solange Sie den Inhalt nicht aktualisieren."
 	},{
 		"label": "LBL_01027",
-		"text": "<b>Goal of the Game</b>\n\r\n\rYour goal in this game is to assemble the entire puzzle image correctly <i>on the Puzzle Mat</i>. The <b>Puzzle Mat</b> is the pale sheet of fine cloth located in the middle of the play table. You can assemble pieces of the puzzle outside the mat of course, but the final image has to be completed on the mat itself. If you're playing for time, you should also keep an eye on the timer at the top of the GUI.\n\r\n\rDon't forget that you can save your game progress to take a break and resume at any time."
+		"text": "<b>Ziel des Spiels</b>\n\r\n\rZiel des Spiels ist das korrekte Zusammensetzen des Bildes <i>auf der Puzzlematte</i>. Die <b>Puzzlematte</b> ist das helle Stück Stoff in der Mitte des Spieltisches. Sie können natürlich Puzzleteile außerhalb der Matte zusammenfügen, aber das endgültige Bild muss auf der Puzzlematte liegen. Wenn Sie gegen die Zeit spielen, sollten Sie die Uhr oben rechts auf der Benutzeroberfläche im Auge behalten.\n\r\n\rVergessen Sie nicht, dass es jederzeit möglich ist den Fortschritt zu speichern und das Spiel zu einer anderen Zeit fortzusetzen."
 	},{
 		"label": "LBL_01028",
-		"text": "<b>How to Start</b>\n\r\n\rYou should start by opening the <b>Puzzle Box</b> by clicking on its glass lid with the <b>Left Mouse Button</b>. It should be located on the play table close to the Puzzle Mat. Once the box is open, you can reach the puzzle tiles contained inside. After that employ your best strategy to assemble the puzzle."
+		"text": "<b>Wie man anfängt</b>\n\r\n\rSie sollten starten, indem Sie die <b>Puzzle-Box</b> durch einen Klick mit der <b>Linken Maustaste</b> auf den Deckel öffnen. Sie sollte neben der Puzzlematte auf dem Tisch stehen. Wenn die Box geöffnet ist, können Sie auf deren Puzzleteile zugreifen. Danach sollten Sie Ihre beste Strategie für das Zusammensetzen anwenden."
 	},{
 		"label": "LBL_01029",
-		"text": "<b>Some Advice for Puzzle Building</b>\n\r\n\rThe puzzle tiles can and should be attached to the Puzzle Mat. To attach a tile or a group of tiles to the mat, you need to place them at their correct location. If your guess was correct, the affected tiles will flash and will be set on the mat in a perfect position. Initially, <i>only</i> tiles that are part of the image frame can be attached to the mat in such a way. For all the rest you will need to attach them to frame tiles that are already set on the mat. Note that once set on the mat, the puzzle tiles are no longer interactable and cannot be moved or picked up.\n\r\n\rThe puzzle tiles can also be <i>attached</i> to eachother independently from the mat by placing one of them close to its assumed counterpart. If the guess is correct, all affected tiles will flash to indicate that they are now a group. You can link in this way both individual tiles and groups of already attached tiles. Be careful because the tiles will only attach to eachother or the mat if they have the same orientation and are put close enough. If an attachment does not occur and you're sure the tiles are the correct ones, try rotating the loose ones to a correct angle and place them closer without letting them overlap.\n\r\n\rFor information on how to manipulate the puzzle tiles, please check the following pages."
+		"text": "<b>Hinweise zum Puzzeln</b>\n\r\n\rDie Puzzleteile können und sollten an die Puzzlematte angefügt werden. Damit ein Teil oder eine Gruppe von Teilen an die Matte angefügt wird, müssen sie an der korrekten Position auf der Matte abgelegt werden. Wenn Ihr Versuch richtig war, blinkt das Puzzleteil kurz auf und wird perfekt ausgerichtet an die Puzzlematte angefügt. Zu Beginn, können mit dieser Methode <i>ausschließlich</i> Randteile angefügt werden. Die anderen Puzzleteile müssen an schon angehangene Randteile angefügt werden. Beachten Sie, dass einmal zur Matte hinzugefügte Puzzleteile nicht mehr veränderbar sind und nicht mehr bewegt oder aufgenommen werden können.\n\r\n\rPuzzleteile können ebenfalls unabhängig von der Puzzlematte <i>aneinandergefügt</i> werden indem sie nah ihres Gegenstücks platziert werden. Wenn Ihre Vermutung korrekt ist, leuchten die entsprechenden Teile kurz auf und bilden ab dann eine Gruppe. Sie können so entweder einzelne Teile oder Gruppen aneinanderfügen. Aber Achtung, die Teile werden nur aneinandergefügt, wenn sie die gleiche Orientierung haben und nah genug aneinander gesetzt werden. Falls zwei Puzzleteile, bei denen Sie sich sicher sind, dass sie zusammengehören, nicht aneinander gefügt werden, versuchen Sie die losen Teile in den richtigen Winkel zu drehen und legen Sie das Teil näher an das andere ab, ohne dass sich die Teile überlappen.\n\r\n\rFür Information darüber, wie Sie Puzzleteile manipulieren, lesen Sie bitte die nachfolgenden Seiten."
 	},{
 		"label": "LBL_01030",
-		"text": "You've managed to complete this <b>${0}</b> tile puzzle box for <b>${1}</b> in total."
+		"text": "Sie haben diese <b>${0}</b> Puzzleteile-Box <b>${1}</b> Mal abgeschlossen."
 	},{
 		"label": "LBL_01031",
-		"text": "All options are saved automatically as you adjust them."
+		"text": "Alle Optionen werden direkt beim Setzen gespeichert."
 	},{
 		"label": "LBL_01032",
-		"text": "This setting controls how much two tiles can overlap or be distant from each other during placement before link attempt is triggered.\n\rWe recommend leaving this setting to its <b>minimum</b> value for the most realistic experience."
+		"text": "Diese Einstellung bestimmt, wie weit sich zwei Puzzleteile überlappen, oder entfernt voneinander sein, dürfen, bevor versucht wird sie aneinander zu legen.\n\rWir empfehlen Ihnen diese Einstellung auf dem <b>kleinsten</b> Wert zu belassen, um die realistischste Erfahrung zu genießen."
 	},{
 		"label": "LBL_01033",
-		"text": "This setting controls how large the difference can be on the link axis between two tiles during placement before link attempt is triggered.\n\rWe recommend leaving this setting to its <b>minimum</b> value for the most realistic experience."
+		"text": "Diese Einstellung bestimmt, wie groß die Differenz auf den Achsen sein darf, bevor versucht wird sie aneinander zu legen.\n\rWir empfehlen Ihnen diese Einstellung auf dem <b>kleinsten</b> Wert zu belassen, um die realistischste Erfahrung zu genießen."
 	},{
 		"label": "LBL_01034",
-		"text": "<b>Manipulating the Puzzle Box</b>\n\r\n\rTo be able to start playing the game you'll need to open the puzzle box containing all the puzzle tiles. To do that click with the <b>Left Mouse Button</b> anywhere on the box's lid. You can close the puzzle box at any time in the same way. Just be careful to click one of the visible edges of the lid located under the box itself. You can also lift the puzzle box up to a certain position above the play table. To do that hold the <b>Alt</b> key and then click with the <b>Left Mouse Button</b> anywhere on the box or the lid. To lower the puzzle box back down on the play table use the same key combination. Lifting the puzzle box works both while it's closed and opened."
+		"text": "<b>Die Puzzlebox manipulieren</b>\n\r\n\rDamit Sie mit dem Puzzeln starten können, müssen Sie zuerst die Puzzlebox, die alle Teile beinhaltet, öffnen. Das machen Sie, indem Sie mit der <b>Linken Maustaste</b> auf ihren Deckel klicken. Auf diesem Weg, können Sie die Puzzlebox jederzeit auch wieder schließen. Klicken Sie einfach auf eine der sichtbaren Ecken des Deckels.\n\r\n\rSie können ebenfalls die Puzzlebox anheben und auf eine beliebige Stelle auf den Tisch stellen. Halten Sie dafür die <b>Alt</b> Taste und klicken anschließend mit der <b>Linken Maustaste</b> irgendwo auf die Box oder den Deckel. Nutzen Sie die selbe Kombination um die Box auf den Tisch abzusetzen. Die Puzzlebox kann sowohl geöffnet als auch geschlossen verschoben werden."
 	},{
 		"label": "LBL_01035",
-		"text": "This setting controls how many tiles around the center tile will be picked up together when the tile grab command is executed."
+		"text": "Diese Einstellung bestimmt, wie viele Puzzleteile um die Auswahl herum aufgehoben werden."
 	},{
 		"label": "EXC_00001",
-		"text": "Unknown error encountered."
+		"text": "Unbekannter Fehler aufgetreten."
 	},{
 		"label": "EXC_01000",
-		"text": "Local asset bundle for the required game content was not found or the installed bundle is of an older version and cannot be used."
+		"text": "Lokale Objekte für den angeforderten Spielinhalt wurden nicht gefunden oder das installierte Paket ist veraltet und kann daher nicht benutzt werden."
 	},{
 		"label": "EXC_01001",
-		"text": "Remote asset bundle for the required game content was not found on the server."
+		"text": "Remoteobjekte des angeforderten Spielinhalts wurden auf dem Server nicht gefunden."
 	},{
 		"label": "EXC_01002",
-		"text": "Remote asset bundle for the required game content failed to download or decode properly."
+		"text": "Remoteobjekte des angeforderten Spielinhalts konnten nicht korrekt heruntergeladen oder dekodiert werden."
 	},{
 		"label": "EXC_01003",
-		"text": "Failed to retrieve download URL from the server. Please be advised that in order to download new game content you need to be authenticated."
+		"text": "Download URL konnte nicht vom Server abgerufen werden. Bitte beachten, um weitere Spielinhalte zu downloaden, müssen Sie authentifiziert sein."
 	},{
 		"label": "EXC_01004",
-		"text": "New Player profile registration failed. Please make sure the details you entered are correct."
+		"text": "Profilerstellung fehlgeschlagen. Stellen Sie sicher, dass Sie die Details korrekt eingetragen haben."
 	},{
 		"label": "EXC_01005",
-		"text": "Authentication using custom ID failed."
+		"text": "Authentifikation mit der eigenen ID fehlgeschlagen."
 	},{
 		"label": "EXC_01006",
-		"text": "Authentication failed. Please make sure you entered your credentials correctly."
+		"text": "Authentifikation fehlgeschlagen. Bitte stellen Sie sicher, dass Ihre Zugangsdaten korrekt sind."
 	},{
 		"label": "EXC_01007",
-		"text": "Failed to authenticate in Photon multiplayer network. This might be caused by heavier server load or network connectivity issues. Please wait for several minutes and try again."
+		"text": "Authentifikation im Photon Multiplayer Netzwerk fehlgeschlagen. Grund könnte eine hohe Serverlast oder Verbindungsprobleme sein. Bitte warten Sie einige Minuten und versuchen es erneut."
 	},{
 		"label": "EXC_01008",
-		"text": "Failed to retrieve Player profile information. Please re-authenticate to try again."
+		"text": "Profilinformationen konnten nicht abgerufen werden. Bitte authentifizieren Sie sich nochmals."
 	},{
 		"label": "EXC_01017",
-		"text": "Failed to retrieve the latest settings for <b>${0}</b> from the server. The game will use the local settings instead, but this might cause unpredictable issues during gameplay. Please check our community boards for more information."
+		"text": "Die aktuellsten Einstellungen für <b>${0}</b> konnten nicht vom Server abgerufen werden. Das Spiel nutzt stattdessen die lokalen Einstellungen, dies könnte aber zu unvorhersehbaren Fehlern führen. Bitte checken Sie unserer Community Boards für mehr Informationen."
 	},{
 		"label": "EXC_01018",
-		"text": "Could not find or load the localication file for <b>${0}</b>."
+		"text": "Lokalisierungsdatei für <b>${0}</b> konnte nicht gefunden werden."
 	}]
 }
